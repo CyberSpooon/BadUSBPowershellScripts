@@ -1,1 +1,1 @@
- Repo that holds powershell scripts for badusb
+Repo that holds powershell scripts for badusb
